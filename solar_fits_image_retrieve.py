@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 !pip install sunpy[all]
 
 import os
