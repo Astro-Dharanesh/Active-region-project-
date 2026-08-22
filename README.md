@@ -43,10 +43,6 @@ The scripts are intended to support workflows such as:
 * Magnetic and coronal observations
 * Comparison of solar observations with solar-wind measurements
 
-## Status
-
-This repository is an **ongoing research and development project**. Scripts may be updated as the analysis workflows are refined and additional solar-data processing capabilities are added.
-
 ## Author
 
 **Dharanesh Palaniappan**
